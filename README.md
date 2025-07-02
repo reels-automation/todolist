@@ -13,7 +13,19 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 - [ ] Descargar automáticamente el pth e index de cada personaje ( descomprir el zip )
 - [ ] Descargar automáticamente los gameplays al bucket de gameplays.
 
-### Agregar Close gracefully a los microservicios
-- [ ] 
- 
+### Docker Compose
+- [ ] Hacer que todos los contenedores se reinicien automáticamente si se caen  (restart: unless-stopped)
+
+### Testeo General
+- [ ] Testear que el docker compose funcione sin intervención manual para arreglar errores en una máquina nueva que nunca ejecutó los contenedores.
+
+## Sprint 2: Errores Generales [PLANEACIÓN]
+
+### Objetivo
+Este sprint tiene como objetivo corregir errores que hacen que el sistema falle o se rompa.
+
+- [ ] Cuando se envían cero o menos imágenes no se debe renderizar nada, también hay que hacer un catch de ZeroDivisionError
+- [ ] Subtitle generator no renderiza si el nombre es muy largo
+- [ ] Agregar un limite de imágenes a los videos
+- [ ] Parsear los datos que se ponen en el frontend para que solo devuelva ASCII válido.
 
