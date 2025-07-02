@@ -2,6 +2,12 @@
 
 ## Sprint 1: Devops Sprint [ EN PROCESO ]
 
+### Duración
+
+Inicio: 1 Junio
+Finalizó: 
+Duración: 
+
 ### Objetivo
 Este sprint tiene como objetivo facilitar el deployment de los distintos contenedores y limitar el trabajo manual que se hace al descargar los contenedores.
 
@@ -21,6 +27,10 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 
 ## Sprint 2: Errores Generales [PLANEACIÓN]
 
+Inicio: 
+Finalizó: 
+Duración: 
+
 ### Objetivo
 Este sprint tiene como objetivo corregir errores que hacen que el sistema falle o se rompa.
 
@@ -29,3 +39,17 @@ Este sprint tiene como objetivo corregir errores que hacen que el sistema falle 
 - [ ] Agregar un limite de imágenes a los videos
 - [ ] Parsear los datos que se ponen en el frontend para que solo devuelva ASCII válido.
 
+## Sprint 3: Eliminar valores hardcodeados [PLANEACIÓN]
+
+### Objetivo
+El objetivo de este sprint es que en el frontend el usuario tenga opciones en base a los datos que psoee el servidor y que no esten hardcodeadas. Esto evitaría muchos errores en el backend cuando algún microservicio no encuentre un archivo especifico. 
+
+- [ ] Agregar un endpoint de modelos de AI disponibles
+- [ ] Agregar un endpoint de los gameplays disponibles
+- [ ] Agregar un endpoint de las imágenes disponibles
+- [ ] Agregar un endpoint de los personajes disponibles (Homero, Peter Griffin)
+- [ ] Agregar un endpoint de los idiomas disponibles
+
+## Sprint 4: Hostear el servidor de manera robusta [PLANEACIÓN]
+
+## Sprint 4: Reescribir video Creator en GO lang! [PLANEACIÓN]
