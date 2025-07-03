@@ -4,9 +4,9 @@
 
 ### Duración
 
-Inicio: 1 Junio
-Finalizó: 
-Duración: 
+- Inicio: 1 Julio
+- Finalizó: 3 Julio 
+- Duración: 3 días
 
 ### Objetivo
 Este sprint tiene como objetivo facilitar el deployment de los distintos contenedores y limitar el trabajo manual que se hace al descargar los contenedores.
@@ -23,11 +23,11 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 - [x] Hacer que todos los contenedores se reinicien automáticamente si se caen  (restart: unless-stopped)
 
 ### Testeo General
-- [ ] Testear que el docker compose funcione sin intervención manual para arreglar errores en una máquina nueva que nunca ejecutó los contenedores.
+- [ ] Testear que el docker compose funcione sin intervención manual para arreglar errores en una máquina nueva que nunca ejecutó los contenedores. [ No sabemos cómo replicar el error, quedá abierto ]
 
 ## Sprint 2: Errores Generales [PLANEACIÓN]
 
-Inicio: 
+Inicio: 3 Julio
 Finalizó: 
 Duración: 
 
