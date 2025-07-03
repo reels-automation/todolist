@@ -25,9 +25,7 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 ### Testeo General
 - [ ] Testear que el docker compose funcione sin intervención manual para arreglar errores en una máquina nueva que nunca ejecutó los contenedores. [ No sabemos cómo replicar el error, quedá abierto ]
 
-## Sprint 2: Reescribir video Creator en GO lang! [PLANEACIÓN]
-
-## Sprint 3: Errores Generales [PLANEACIÓN]
+## Sprint 2: Errores Generales [PLANEACIÓN]
 
 - Inicio: 3 Julio
 - Finalizó: 
@@ -41,7 +39,8 @@ Este sprint tiene como objetivo corregir errores que hacen que el sistema falle 
 - [ ] Agregar un limite de imágenes a los videos
 - [ ] Parsear los datos que se ponen en el frontend para que solo devuelva ASCII válido.
 
-## Sprint 4: Eliminar valores hardcodeados [PLANEACIÓN]
+
+## Sprint 3: Eliminar valores hardcodeados [PLANEACIÓN]
 
 ### Objetivo
 El objetivo de este sprint es que en el frontend el usuario tenga opciones en base a los datos que psoee el servidor y que no esten hardcodeadas. Esto evitaría muchos errores en el backend cuando algún microservicio no encuentre un archivo especifico. 
@@ -52,4 +51,7 @@ El objetivo de este sprint es que en el frontend el usuario tenga opciones en ba
 - [ ] Agregar un endpoint de los personajes disponibles (Homero, Peter Griffin)
 - [ ] Agregar un endpoint de los idiomas disponibles
 
-## Sprint 5: Hostear el servidor de manera robusta [PLANEACIÓN]
+## Sprint 4: Hostear el servidor de manera robusta [PLANEACIÓN]
+
+## Sprint 5: Reescribir video Creator en GO lang! [PLANEACIÓN]
+
