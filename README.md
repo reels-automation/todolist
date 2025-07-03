@@ -27,9 +27,9 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 
 ## Sprint 2: Errores Generales [PLANEACIÓN]
 
-Inicio: 3 Julio
-Finalizó: 
-Duración: 
+- Inicio: 3 Julio
+- Finalizó: 
+- Duración: 
 
 ### Objetivo
 Este sprint tiene como objetivo corregir errores que hacen que el sistema falle o se rompa.
