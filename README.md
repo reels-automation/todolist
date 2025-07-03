@@ -14,10 +14,10 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 ### Tareas
 
 ### Script de descarga en el bucket de admin:
-- [ ] Descargar automáticamente los modelos voz de VOSK
-- [ ] Descargar automáticamente las imágenes de cada personaje
-- [ ] Descargar automáticamente el pth e index de cada personaje ( descomprir el zip )
-- [ ] Descargar automáticamente los gameplays al bucket de gameplays.
+- [x] Descargar automáticamente los modelos voz de VOSK
+- [x] Descargar automáticamente las imágenes de cada personaje
+- [x] Descargar automáticamente el pth e index de cada personaje ( descomprir el zip )
+- [x] Descargar automáticamente los gameplays al bucket de gameplays.
 
 ### Docker Compose
 - [ ] Hacer que todos los contenedores se reinicien automáticamente si se caen  (restart: unless-stopped)
