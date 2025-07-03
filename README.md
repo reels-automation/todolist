@@ -41,7 +41,8 @@ Este sprint tiene como objetivo corregir errores que hacen que el sistema falle 
 - [ ] Agregar un limite de imágenes a los videos
 - [ ] Parsear los datos que se ponen en el frontend para que solo devuelva ASCII válido.
 
-#### Mejorar error handling y logs de mensajes
+#### Mejorar error handling, logs de mensajes, limpiar código y empezar unittesting.
+
 - [ ] Agregar error handling Descriptivo y Verbose en prompt generator
 - [ ] Agregar error handling Descriptivo y Verbose en subtitle generator
 - [ ] Agregar error handling Descriptivo y Verbose en tts-rvc
