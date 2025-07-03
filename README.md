@@ -20,7 +20,7 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 - [x] Descargar automáticamente los gameplays al bucket de gameplays.
 
 ### Docker Compose
-- [ ] Hacer que todos los contenedores se reinicien automáticamente si se caen  (restart: unless-stopped)
+- [x] Hacer que todos los contenedores se reinicien automáticamente si se caen  (restart: unless-stopped)
 
 ### Testeo General
 - [ ] Testear que el docker compose funcione sin intervención manual para arreglar errores en una máquina nueva que nunca ejecutó los contenedores.
