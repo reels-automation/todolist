@@ -19,6 +19,7 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 - [x] Descargar automáticamente el pth e index de cada personaje ( descomprir el zip )
 - [x] Descargar automáticamente los gameplays al bucket de gameplays.
 
+
 ### Docker Compose
 - [x] Hacer que todos los contenedores se reinicien automáticamente si se caen  (restart: unless-stopped)
 
@@ -34,10 +35,19 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 ### Objetivo
 Este sprint tiene como objetivo corregir errores que hacen que el sistema falle o se rompa.
 
+## Errorres
 - [ ] Cuando se envían cero o menos imágenes no se debe renderizar nada, también hay que hacer un catch de ZeroDivisionError
 - [ ] Subtitle generator no renderiza si el nombre es muy largo
 - [ ] Agregar un limite de imágenes a los videos
 - [ ] Parsear los datos que se ponen en el frontend para que solo devuelva ASCII válido.
+
+#### Mejorar error handling y logs de mensajes
+- [ ] Agregar error handling Descriptivo y Verbose en prompt generator
+- [ ] Agregar error handling Descriptivo y Verbose en subtitle generator
+- [ ] Agregar error handling Descriptivo y Verbose en tts-rvc
+- [ ] Agregar error handling Descriptivo y Verbose en video creator
+- [ ] Agregar error handling Descriptivo y Verbose en Api Gateway
+- [ ] Agregar error handling Descriptivo y Verbose en Admin files
 
 
 ## Sprint 3: Eliminar valores hardcodeados [PLANEACIÓN]
