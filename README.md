@@ -46,7 +46,7 @@ Este sprint tiene como objetivo corregir errores que hacen que el sistema falle 
 - [x] Agregar error handling Descriptivo y Verbose en prompt generator
 - [x] Limpiar código de Prompt Generator
 - [ ] Agregar error handling Descriptivo y Verbose en subtitle generator
-- [ ] Agregar error handling Descriptivo y Verbose en tts-rvc
+- [x] Agregar error handling Descriptivo y Verbose en tts-rvc
 - [ ] Agregar error handling Descriptivo y Verbose en video creator
 - [ ] Agregar error handling Descriptivo y Verbose en Api Gateway
 - [ ] Agregar error handling Descriptivo y Verbose en Admin files
