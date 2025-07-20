@@ -40,6 +40,7 @@ Este sprint tiene como objetivo corregir errores que hacen que el sistema falle 
 - [ ] Subtitle generator no renderiza si el nombre es muy largo
 - [ ] Agregar un limite de imágenes a los videos
 - [ ] Parsear los datos que se ponen en el frontend para que solo devuelva ASCII válido.
+- [ ] Convertir los subtitlos en un .ass antes de subirlos al bucket de minio.
 
 #### Mejorar error handling, logs de mensajes, limpiar código.
 
