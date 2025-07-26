@@ -36,11 +36,9 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 Este sprint tiene como objetivo corregir errores que hacen que el sistema falle o se rompa.
 
 ## Errorres
-- [ ] Cuando se envían cero o menos imágenes no se debe renderizar nada, también hay que hacer un catch de ZeroDivisionError
-- [ ] Subtitle generator no renderiza si el nombre es muy largo
+- [x] Subtitle generator no renderiza si el nombre es muy largo
 - [ ] Agregar un limite de imágenes a los videos
-- [ ] Parsear los datos que se ponen en el frontend para que solo devuelva ASCII válido.
-- [ ] Convertir los subtitlos en un .ass antes de subirlos al bucket de minio.
+- [x] Convertir los subtitlos en un .ass antes de subirlos al bucket de minio.
 
 #### Mejorar error handling, logs de mensajes, limpiar código.
 
