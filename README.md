@@ -46,14 +46,17 @@ Este sprint tiene como objetivo corregir errores que hacen que el sistema falle 
 
 - [x] Agregar error handling Descriptivo y Verbose en prompt generator
 - [x] Limpiar código de Prompt Generator
-- [ ] Agregar error handling Descriptivo y Verbose en subtitle generator
+- [x] Agregar error handling Descriptivo y Verbose en subtitle generator
 - [x] Agregar error handling Descriptivo y Verbose en tts-rvc
-- [ ] Agregar error handling Descriptivo y Verbose en video creator
+- [ ] Agregar error handling Descriptivo y Verbose en video creator [DEPRECATED]
 - [ ] Agregar error handling Descriptivo y Verbose en Api Gateway
 - [ ] Agregar error handling Descriptivo y Verbose en Admin files
 
+## Sprint 3: Reescribir video Creator en GO lang! [PLANEACIÓN]
+- [x] Hacer la logica y el core de la aplicación
+- [ ] Hostearlo en docker e integrarlo con el resto de microservicios
 
-## Sprint 3: Eliminar valores hardcodeados [PLANEACIÓN]
+## Sprint 4: Eliminar valores hardcodeados [PLANEACIÓN]
 
 ### Objetivo
 El objetivo de este sprint es que en el frontend el usuario tenga opciones en base a los datos que psoee el servidor y que no esten hardcodeadas. Esto evitaría muchos errores en el backend cuando algún microservicio no encuentre un archivo especifico. 
@@ -64,7 +67,6 @@ El objetivo de este sprint es que en el frontend el usuario tenga opciones en ba
 - [ ] Agregar un endpoint de los personajes disponibles (Homero, Peter Griffin)
 - [ ] Agregar un endpoint de los idiomas disponibles
 
-## Sprint 4: Hostear el servidor de manera robusta [PLANEACIÓN]
+## Sprint 5: Hostear el servidor de manera robusta [PLANEACIÓN]
 
-## Sprint 5: Reescribir video Creator en GO lang! [PLANEACIÓN]
 
