@@ -29,15 +29,14 @@ Este sprint tiene como objetivo facilitar el deployment de los distintos contene
 ## Sprint 2: Errores Generales [PLANEACIÓN]
 
 - Inicio: 3 Julio
-- Finalizó: 
-- Duración: 
+- Finalizó: 2 Agosto 
 
 ### Objetivo
 Este sprint tiene como objetivo corregir errores que hacen que el sistema falle o se rompa.
 
 ## Errorres
 - [x] Subtitle generator no renderiza si el nombre es muy largo
-- [ ] Agregar un limite de imágenes a los videos
+- [x] Agregar un limite de imágenes a los videos
 - [x] Convertir los subtitlos en un .ass antes de subirlos al bucket de minio.
 
 #### Mejorar error handling, logs de mensajes, limpiar código.
@@ -51,20 +50,21 @@ Este sprint tiene como objetivo corregir errores que hacen que el sistema falle 
 - [ ] Agregar error handling Descriptivo y Verbose en Admin files
 
 ## Sprint 3: Reescribir video Creator en GO lang! [PLANEACIÓN]
+- Finalizó: 2 Agosto
 - [x] Hacer la logica y el core de la aplicación
-- [ ] Hostearlo en docker e integrarlo con el resto de microservicios
+- [x] Hostearlo en docker e integrarlo con el resto de microservicios
 
 ## Sprint 4: Eliminar valores hardcodeados [PLANEACIÓN]
 
+- Finalizó: 2 Agosto
 ### Objetivo
 El objetivo de este sprint es que en el frontend el usuario tenga opciones en base a los datos que psoee el servidor y que no esten hardcodeadas. Esto evitaría muchos errores en el backend cuando algún microservicio no encuentre un archivo especifico. 
 
-- [ ] Agregar un endpoint de modelos de AI disponibles
-- [ ] Agregar un endpoint de los gameplays disponibles
-- [ ] Agregar un endpoint de las imágenes disponibles
-- [ ] Agregar un endpoint de los personajes disponibles (Homero, Peter Griffin)
-- [ ] Agregar un endpoint de los idiomas disponibles
+- [x] Agregar un endpoint de modelos de AI disponibles
+- [x] Agregar un endpoint de los gameplays disponibles
+- [x] Agregar un endpoint de los personajes disponibles (Homero, Peter Griffin)
 
 ## Sprint 5: Hostear el servidor de manera robusta [PLANEACIÓN]
 
+## Sprint 6: Implementar sistema de notificaciones con websocket
 
